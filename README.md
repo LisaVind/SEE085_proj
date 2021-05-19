@@ -1,7 +1,4 @@
 # SEE085_proj
-This is a group project in linear algebra.
+This is a group project in linear algebra. We will compare two countries water rescourses.
 
-https://knoema.com/atlas/Sweden/Internal-renewable-water-resources-per-capita
-
-OBS! filen för tillgängligt vatten är uppdaterad (första värdet ska vara 1,71 * 10**11)
-
+https://ourworldindata.org/water-use-stress
